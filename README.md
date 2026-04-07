@@ -1,17 +1,30 @@
-### Javier Alonso Alija
+# Hi, I'm Javier 👋
 
-**AI Engineer** — I design complex systems and build them by directing AI.
+**AI Engineer** based in Valladolid, Spain · Remote-first
+
+I design complex systems and build them by directing AI as my engineering team.
+LLM orchestration · GPU infrastructure · Observability · On-premise inference.
 
 ---
 
-#### Featured project
+### 🛠️ Currently building
 
-**[llm-inference-docker-gpu](https://github.com/javieralonso-ai/llm-inference-docker-gpu)** — On-premise LLM inference with Docker, Ollama, GPU monitoring, and structured logging. Built as a technical assessment for an AI startup: delivered 2 complete projects (they asked for 1), 3 days before deadline.
+A multi-agent local AI ecosystem with episodic memory, cross-model validation and full LLM observability — running on a custom dual-GPU rig.
 
-#### Tech I work with
+### 🔭 Background
 
-`Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `Ollama` `CUDA` `systemd` `asyncio`
+- 20+ years operating production infrastructure where downtime is measured in € / minute
+- Self-taught in AI, LLMs and GPU systems since late 2024
+- Validated by **ModelVault** (on-premise AI startup) — *"great fit for our team"*
 
-#### Connect
+### 🧰 Stack
 
-[LinkedIn](https://www.linkedin.com/in/javieralonso-ai) · jzeroprime@gmail.com · Valladolid, Spain
+`Python` · `FastAPI` · `asyncio` · `PostgreSQL + pgvector` · `Redis` · `Ollama` · `Docker` · `CUDA` · `systemd`
+
+### 📌 Pinned
+
+- **[llm-inference-docker-gpu](https://github.com/javieralonso-ai/llm-inference-docker-gpu)** — On-premise LLM inference with Docker, Ollama, GPU monitoring and structured telemetry.
+
+---
+
+📫 jzeroprime@gmail.com · [LinkedIn](https://linkedin.com/in/javieralonso-ai)
